@@ -1,0 +1,82 @@
+[
+  {
+    "id": "uttar-pradesh",
+    "name": "Uttar Pradesh",
+    "description": "Where Mughal grandeur meets river-side devotion — marble, ghats and old-city bazaars.",
+    "tag": "Heritage",
+    "destinationIds": [
+      "agra"
+    ],
+    "image": "/images/UttarPradesh.jpg"
+  },
+  {
+    "id": "rajasthan",
+    "name": "Rajasthan",
+    "description": "Desert forts, painted havelis and folklore carried through generations.",
+    "tag": "Heritage",
+    "destinationIds": [],
+    "image": "/images/Rajsthan.jpg"
+  },
+  {
+    "id": "madhya-pradesh",
+    "name": "Madhya Pradesh",
+    "description": "Quiet stone towns and living weaving traditions, away from the crowds.",
+    "tag": "Craft",
+    "destinationIds": [],
+    "image": "/images/madhya-pradesh.jpg"
+  },
+  {
+    "id": "west-bengal",
+    "name": "West Bengal",
+    "description": "Hill towns, monasteries and a slower, misty rhythm in the northeast corner.",
+    "tag": "Nature",
+    "destinationIds": [
+      "kalimpong"
+    ],
+    "image": "/images/west-bengal.jpg"
+  },
+  {
+    "id": "odisha",
+    "name": "Odisha",
+    "description": "Tribal heritage and landscapes shaped by the Eastern Ghats.",
+    "tag": "Culture",
+    "destinationIds": [
+      "koraput"
+    ],
+    "image": "/images/odisha.jpg"
+  },
+  {
+    "id": "chhattisgarh",
+    "name": "Chhattisgarh",
+    "description": "Bastar's crafts and forest-edge villages, largely untouched by mass tourism.",
+    "tag": "Craft",
+    "destinationIds": [
+      "kondagaon"
+    ],
+    "image": "/images/chhattisgarh.jpg"
+  },
+  {
+    "id": "uttarakhand",
+    "name": "Uttarakhand",
+    "description": "Mountain paths and valley villages beneath the Himalayan ridgeline.",
+    "tag": "Nature",
+    "destinationIds": [],
+    "image": "/images/uttarakhand.jpg"
+  },
+  {
+    "id": "jharkhand",
+    "name": "Jharkhand",
+    "description": "Terracotta temples and forested plateaus with their own local calendar.",
+    "tag": "History",
+    "destinationIds": [],
+    "image": "/images/jharkhand.jpg"
+  },
+  {
+    "id": "delhi",
+    "name": "Delhi",
+    "description": "Layers of capitals, one on top of another, still legible in the streets.",
+    "tag": "History",
+    "destinationIds": [],
+    "image": "/images/Delhi.jpg"
+  }
+]

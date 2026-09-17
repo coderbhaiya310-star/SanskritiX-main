@@ -1,0 +1,340 @@
+{
+  "itineraries": [
+    {
+      "id": "agra-1-day",
+      "title": "Agra in 1 Day",
+      "days": [
+        {
+          "day": 1,
+          "title": "Taj Mahal & Old Agra",
+          "places": [
+            {
+              "time": "6:00 AM",
+              "name": "Taj Mahal",
+              "duration": "2.5 hours",
+              "description": "Start early to enjoy the Taj Mahal with less crowd.",
+              "mapUrl": "https://www.google.com/maps/search/?api=1&query=Taj+Mahal+Agra"
+            },
+            {
+              "time": "9:00 AM",
+              "name": "Agra Fort",
+              "duration": "2 hours",
+              "description": "Explore the historic Mughal fort and its architecture.",
+              "mapUrl": "https://www.google.com/maps/search/?api=1&query=Agra+Fort"
+            },
+            {
+              "time": "12:00 PM",
+              "name": "Lunch – Mughlai Food",
+              "duration": "1 hour",
+              "description": "Try local Mughlai dishes.",
+              "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mughlai+Restaurant+Agra"
+            },
+            {
+              "time": "2:00 PM",
+              "name": "Itmad-ud-Daulah",
+              "duration": "1 hour",
+              "description": "Visit the beautiful marble tomb known as the Baby Taj.",
+              "mapUrl": "https://www.google.com/maps/search/?api=1&query=Itmad+ud+Daulah+Agra"
+            },
+            {
+              "time": "4:00 PM",
+              "name": "Mehtab Bagh",
+              "duration": "1.5 hours",
+              "description": "Enjoy the Taj Mahal view from across the Yamuna.",
+              "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mehtab+Bagh+Agra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "agra-2-day",
+      "title": "Agra in 2 Days",
+      "days": [
+        {
+          "day": 1,
+          "title": "Mughal Agra",
+          "places": [
+            {
+              "time": "6:00 AM",
+              "name": "Taj Mahal",
+              "duration": "2.5 hours",
+              "description": "Morning visit to the Taj Mahal.",
+              "mapUrl": "https://www.google.com/maps/search/?api=1&query=Taj+Mahal+Agra"
+            },
+            {
+              "time": "9:30 AM",
+              "name": "Agra Fort",
+              "duration": "2 hours",
+              "description": "Explore the Mughal fort.",
+              "mapUrl": "https://www.google.com/maps/search/?api=1&query=Agra+Fort"
+            },
+            {
+              "time": "2:00 PM",
+              "name": "Itmad-ud-Daulah",
+              "duration": "1 hour",
+              "description": "Visit the Baby Taj.",
+              "mapUrl": "https://www.google.com/maps/search/?api=1&query=Itmad+ud+Daulah+Agra"
+            },
+            {
+              "time": "4:00 PM",
+              "name": "Mehtab Bagh",
+              "duration": "1.5 hours",
+              "description": "Sunset view of the Taj Mahal.",
+              "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mehtab+Bagh+Agra"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Local & Cultural Agra",
+          "places": [
+            {
+              "time": "8:00 AM",
+              "name": "Kinari Bazaar",
+              "duration": "1.5 hours",
+              "description": "Explore traditional markets and local shopping.",
+              "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kinari+Bazaar+Agra"
+            },
+            {
+              "time": "10:00 AM",
+              "name": "Jama Masjid",
+              "duration": "1 hour",
+              "description": "Visit one of Agra's historic mosques.",
+              "mapUrl": "https://www.google.com/maps/search/?api=1&query=Jama+Masjid+Agra"
+            },
+            {
+              "time": "12:00 PM",
+              "name": "Sadar Bazaar",
+              "duration": "2 hours",
+              "description": "Shopping and local food.",
+              "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sadar+Bazaar+Agra"
+            },
+            {
+              "time": "4:00 PM",
+              "name": "Agra Marble Market",
+              "duration": "1.5 hours",
+              "description": "Explore traditional marble handicrafts.",
+              "mapUrl": "https://www.google.com/maps/search/?api=1&query=Marble+Market+Agra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "agra-3-day",
+      "title": "Agra in 3 Days",
+      "days": [
+        {
+          "day": 1,
+          "title": "World Heritage Agra",
+          "places": [
+            {
+              "time": "6:00 AM",
+              "name": "Taj Mahal",
+              "duration": "2.5 hours",
+              "description": "Morning visit to the Taj Mahal.",
+              "mapUrl": "https://www.google.com/maps/search/?api=1&query=Taj+Mahal+Agra"
+            },
+            {
+              "time": "10:00 AM",
+              "name": "Agra Fort",
+              "duration": "2 hours",
+              "description": "Explore Mughal architecture.",
+              "mapUrl": "https://www.google.com/maps/search/?api=1&query=Agra+Fort"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Hidden & Local Agra",
+          "places": [
+            {
+              "time": "8:00 AM",
+              "name": "Itmad-ud-Daulah",
+              "duration": "1 hour",
+              "description": "Visit the Baby Taj.",
+              "mapUrl": "https://www.google.com/maps/search/?api=1&query=Itmad+ud+Daulah+Agra"
+            },
+            {
+              "time": "10:00 AM",
+              "name": "Ram Bagh",
+              "duration": "1 hour",
+              "description": "Explore one of the oldest Mughal gardens.",
+              "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ram+Bagh+Agra"
+            },
+            {
+              "time": "4:00 PM",
+              "name": "Mehtab Bagh",
+              "duration": "1.5 hours",
+              "description": "Taj Mahal viewpoint.",
+              "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mehtab+Bagh+Agra"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Markets & Culture",
+          "places": [
+            {
+              "time": "9:00 AM",
+              "name": "Kinari Bazaar",
+              "duration": "1.5 hours",
+              "description": "Traditional shopping area.",
+              "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kinari+Bazaar+Agra"
+            },
+            {
+              "time": "11:00 AM",
+              "name": "Sadar Bazaar",
+              "duration": "2 hours",
+              "description": "Shopping and street food.",
+              "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sadar+Bazaar+Agra"
+            },
+            {
+              "time": "4:00 PM",
+              "name": "Local Handicraft Market",
+              "duration": "1.5 hours",
+              "description": "Explore marble and handicraft products.",
+              "mapUrl": "https://www.google.com/maps/search/?api=1&query=Agra+Marble+Market"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "transportPrices": [
+    {
+      "category": "Auto Rickshaw",
+      "service": "Short city ride",
+      "priceRange": "₹50–₹150",
+      "note": "Typical estimated range. Confirm fare before starting."
+    },
+    {
+      "category": "E-Rickshaw",
+      "service": "Short local ride",
+      "priceRange": "₹20–₹80",
+      "note": "Price depends on distance and route."
+    },
+    {
+      "category": "Auto Rickshaw",
+      "service": "Half-day local sightseeing",
+      "priceRange": "₹400–₹800",
+      "note": "Negotiate the total fare before the trip."
+    },
+    {
+      "category": "Taxi",
+      "service": "Full-day local sightseeing",
+      "priceRange": "₹1,200–₹2,500",
+      "note": "Estimated range depending on vehicle and duration."
+    },
+    {
+      "category": "Local Guide",
+      "service": "Short guided visit",
+      "priceRange": "₹500–₹1,500",
+      "note": "Ask for the total fee before starting."
+    },
+    {
+      "category": "Food",
+      "service": "Local meal",
+      "priceRange": "₹100–₹400",
+      "note": "Restaurant prices vary by location and type."
+    }
+  ],
+
+  "hiddenPlaces": [
+    {
+      "id": "ram-bagh",
+      "name": "Ram Bagh",
+      "type": "Garden",
+      "description": "One of the oldest Mughal gardens in Agra.",
+      "bestTime": "Morning or evening",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ram+Bagh+Agra"
+    },
+    {
+      "id": "chini-ka-rauza",
+      "name": "Chini Ka Rauza",
+      "type": "Tomb",
+      "description": "A lesser-known riverside Mughal-era monument.",
+      "bestTime": "Morning or late afternoon",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chini+Ka+Rauza+Agra"
+    },
+    {
+      "id": "keetham-lake",
+      "name": "Keetham Lake",
+      "type": "Nature",
+      "description": "A peaceful natural area away from the busiest tourist zones.",
+      "bestTime": "Morning",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Keetham+Lake+Agra"
+    }
+  ],
+
+  "stays": [
+    {
+      "name": "Budget Stay – Taj Ganj",
+      "area": "Taj Ganj",
+      "priceRange": "₹800–₹2,000/night",
+      "type": "Budget",
+      "description": "Suitable for travellers looking for affordable accommodation near the Taj Mahal.",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Budget+Hotels+Taj+Ganj+Agra"
+    },
+    {
+      "name": "Mid-Range Stay – Fatehabad Road",
+      "area": "Fatehabad Road",
+      "priceRange": "₹2,000–₹5,000/night",
+      "type": "Mid-range",
+      "description": "Good area for hotels, restaurants and tourist access.",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Hotels+Fatehabad+Road+Agra"
+    }
+  ],
+
+  "restaurants": [
+    {
+      "name": "Agra Mughlai Restaurant",
+      "area": "Taj Ganj",
+      "priceRange": "₹200–₹600/person",
+      "cuisine": "Mughlai",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mughlai+Restaurant+Taj+Ganj+Agra"
+    },
+    {
+      "name": "Agra Street Food",
+      "area": "Sadar Bazaar",
+      "priceRange": "₹50–₹250/person",
+      "cuisine": "North Indian / Street Food",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Street+Food+Sadar+Bazaar+Agra"
+    }
+  ],
+
+  "helplines": [
+    {
+      "name": "Emergency",
+      "number": "112",
+      "description": "Police, fire and other emergency assistance."
+    },
+    {
+      "name": "Police",
+      "number": "112",
+      "description": "Emergency police assistance."
+    },
+    {
+      "name": "Ambulance",
+      "number": "108",
+      "description": "Emergency medical assistance."
+    },
+    {
+      "name": "Fire",
+      "number": "101",
+      "description": "Fire emergency assistance."
+    },
+    {
+      "name": "Women Helpline",
+      "number": "181",
+      "description": "Women helpline service."
+    },
+    {
+      "name": "Railway Helpline",
+      "number": "139",
+      "description": "Indian Railways assistance."
+    }
+  ]
+}

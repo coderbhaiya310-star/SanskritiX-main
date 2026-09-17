@@ -1,0 +1,174 @@
+[
+  {
+    "id": "taj-mahal",
+    "destinationId": "agra",
+    "name": "Taj Mahal",
+    "location": "Agra, Uttar Pradesh",
+    "category": "Heritage · Mughal Architecture · Mausoleum",
+    "intro": "An ivory-white marble mausoleum on the southern bank of the Yamuna, and one of the most recognised buildings in the world.",
+    "built": "Completed in the mid-17th century (construction is generally dated to roughly 1632–1653)",
+    "builder": "Commissioned by the Mughal emperor Shah Jahan",
+    "period": "Mughal Empire",
+    "significance": "Built as a mausoleum for Shah Jahan's wife, Mumtaz Mahal, it's considered one of the finest examples of Mughal architecture and is a UNESCO World Heritage Site.",
+    "whyFamous": "Its symmetry, the white marble that shifts colour through the day, and the scale of craftsmanship — inlay work, calligraphy, gardens — make it a landmark of world architecture, not just Indian heritage.",
+    "architecture": "The complex blends Persian, Islamic and Indian architectural styles: a central marble dome, four minarets, and extensive pietra-dura (stone inlay) work using semi-precious stones set into marble.",
+    "culturalImportance": "Beyond tourism, the Taj Mahal is often cited as a symbol of devotion, and remains an active site of conservation and scholarship on Mughal-era art and architecture.",
+    "experiences": [
+      "Sunrise entry to see the marble change tone as light shifts",
+      "Close viewing of the pietra-dura inlay work on the cenotaphs",
+      "Walking the charbagh (formal garden) layout in front of the mausoleum",
+      "Views from across the river at Mehtab Bagh at sunset"
+    ],
+    "bestTime": "October to March, early morning for cooler weather and softer light. It is closed on Fridays.",
+    "etiquette": [
+      "Modest clothing is appreciated, as at any heritage/religious site",
+      "Photography is allowed in most outdoor areas; check posted signs near the inner chamber",
+      "Avoid touching the inlay work",
+      "Keep noise levels respectful, especially near the tomb chamber",
+      "Security lines can be long — carry minimal bags"
+    ],
+    "media": { "images": ["/images/agra/taj-mahal-1.jpg", "/images/agra/taj-mahal-2.jpg", "/images/agra/taj-mahal-3.jpg", "/images/agra/taj-mahal-4.jpg"], "video": "/videos/agra/agra-video.mp4" },
+    "reviews": [
+      { "id": "rev-taj-1", "visitorName": "Aditi R.", "rating": 5, "text": "Went at sunrise and it was worth the early alarm. The marble genuinely looks different by the hour.", "tags": ["Beautiful", "Historical"], "date": "2026-02-20" },
+      { "id": "rev-taj-2", "visitorName": "Marc D.", "rating": 4, "text": "Crowded by mid-morning, but the craftsmanship up close is something photos don't capture.", "tags": ["Architecture", "Photography"], "date": "2026-02-10" }
+    ]
+  },
+  {
+    "id": "agra-fort",
+    "destinationId": "agra",
+    "name": "Agra Fort",
+    "location": "Agra, Uttar Pradesh",
+    "category": "Heritage · Mughal Architecture · Fort",
+    "intro": "A massive red-sandstone fort on the Yamuna, and the primary residence of Mughal emperors before the capital shifted to Delhi.",
+    "built": "Largely built in the second half of the 16th century, with later additions",
+    "builder": "Foundations laid under Emperor Akbar; palace buildings inside were later added by Shah Jahan",
+    "period": "Mughal Empire",
+    "significance": "Served as the main residence of Mughal rulers until 1638, and is a UNESCO World Heritage Site alongside the Taj Mahal.",
+    "whyFamous": "It shows the shift in Mughal taste from Akbar's red sandstone to Shah Jahan's white marble, all within one walled complex.",
+    "architecture": "Massive crenellated sandstone walls enclose palaces, audience halls and mosques, including marble pavilions added later — a visible timeline of Mughal architectural style.",
+    "culturalImportance": "A working seat of empire for decades, it offers a more political, administrative counterpoint to the Taj Mahal's memorial purpose.",
+    "experiences": [
+      "Walking the ramparts for river-facing views of the Taj Mahal in the distance",
+      "Exploring the contrast between red sandstone and white marble sections",
+      "Visiting the audience halls (Diwan-i-Aam and Diwan-i-Khas)"
+    ],
+    "bestTime": "Early morning or late afternoon to avoid midday heat.",
+    "etiquette": [
+      "Wear comfortable footwear — there's a lot of walking on uneven stone",
+      "Modest clothing recommended",
+      "Photography generally permitted outdoors"
+    ],
+    "media": { "images": ["/images/agra/agra-fort-1.jpg", "/images/agra/agra-fort-2.jpg", "/images/agra/agra-fort-3.jpg", "/images/agra/agra-fort-4.jpg"], "video": "" },
+    "reviews": [
+      { "id": "rev-fort-1", "visitorName": "Sana K.", "rating": 5, "text": "Quieter than the Taj and honestly just as impressive. The view of the Taj from the ramparts is a nice surprise.", "tags": ["Historical", "Architecture"], "date": "2026-02-05" }
+    ]
+  },
+  {
+    "id": "mehtab-bagh",
+    "destinationId": "agra",
+    "name": "Mehtab Bagh",
+    "location": "Agra, Uttar Pradesh",
+    "category": "Heritage · Mughal Garden · Riverside",
+    "intro": "A restored Mughal charbagh (formal garden) directly across the river from the Taj Mahal, best known today for sunset views.",
+    "built": "A Mughal-era garden, believed to date to the same period as the Taj Mahal complex",
+    "builder": "Mughal-era garden design, attributed to the same period as Shah Jahan's building programme",
+    "period": "Mughal Empire",
+    "significance": "Thought to have originally been laid out partly as a moonlight-viewing garden aligned with the Taj Mahal across the river.",
+    "whyFamous": "It offers the classic reflected, riverside view of the Taj Mahal without the crowds inside the main monument.",
+    "architecture": "A formal charbagh layout — geometric quadrants, a central water channel, and raised viewing terraces facing the river.",
+    "culturalImportance": "A local legend, unconfirmed by mainstream historical sources, holds that Shah Jahan intended a black marble mausoleum for himself on this bank, facing the white Taj — this remains folklore rather than an established historical fact.",
+    "experiences": [
+      "Sunset views of the Taj Mahal across the Yamuna",
+      "A quieter, greener walk compared to the main monument",
+      "Photography from the raised terrace"
+    ],
+    "bestTime": "Late afternoon, roughly an hour before sunset.",
+    "etiquette": [
+      "Carry water and sun protection — there's little shade",
+      "Keep to marked paths within the garden"
+    ],
+    "media": { "images": ["/images/agra/Mehtab-Bagh-1.jpg", "/images/agra/Mehtab-Bagh-2.jpg", "/images/agra/Mehtab-Bagh-3.jpg", ""], "video": "" },
+    "reviews": [
+      { "id": "rev-mehtab-1", "visitorName": "Leo F.", "rating": 5, "text": "Best sunset spot in Agra and a fraction of the crowd. Bring a wide lens.", "tags": ["Peaceful", "Underrated", "Photography"], "date": "2026-02-01" }
+    ]
+  },
+  {
+    "id": "gyarah-sidi",
+    "destinationId": "agra",
+    "name": "Gyarah Sidi",
+    "location": "Near Agra Fort, Yamuna riverside",
+    "category": "Local Landmark · Riverside",
+    "intro": "A lesser-known riverside spot near the fort, popular locally though not part of the standard tourist circuit.",
+    "built": "Historical details are not firmly documented; treat specific dates as uncertain",
+    "builder": "Not well documented in accessible historical records",
+    "period": "Believed to be Mughal-era, unconfirmed",
+    "significance": "Local tradition associates the name with a set of steps ('gyarah' meaning eleven) leading to the river, though the exact origin story varies by who tells it.",
+    "whyFamous": "It's one of the spots locals point to when a visitor wants to see Agra away from the three big monuments.",
+    "architecture": "A riverside embankment and stepped structure; not a formally protected monument in the way the Fort or Taj are.",
+    "culturalImportance": "Functions today more as a local viewpoint and gathering spot than a heritage site with formal recognition.",
+    "experiences": [
+      "A quiet riverside walk away from tourist crowds",
+      "Local, informal river-facing views of the fort"
+    ],
+    "bestTime": "Late afternoon; go with a local guide if possible since it isn't signposted for visitors.",
+    "etiquette": [
+      "This is not a formally managed tourist site — be mindful of uneven terrain",
+      "Best visited with a local guide who knows current access"
+    ],
+    "media": { "images": ["/images/agra/g1.jpg", "/images/agra/g2.jpg", "/images/agra/g3.jpg", "/images/agra/g4.jpg"], "video": "" },
+    "reviews": []
+  },
+  {
+    "id": "keetham-lake",
+    "destinationId": "agra",
+    "name": "Keetham Lake (Sur Sarovar)",
+    "location": "Sur Sarovar Bird Sanctuary, Agra outskirts",
+    "category": "Nature · Bird Sanctuary",
+    "intro": "A lake and bird sanctuary on the edge of Agra — the city's main green, natural counterpoint to its monuments.",
+    "built": "A natural lake developed into a protected bird sanctuary in the modern era",
+    "builder": "Managed as a wildlife sanctuary by state forest authorities",
+    "period": "Contemporary conservation area",
+    "significance": "Known as Sur Sarovar Bird Sanctuary, it draws migratory birds seasonally and has a nature interpretation centre.",
+    "whyFamous": "It's the easiest way to see a completely different side of Agra — water, reeds and birdlife instead of marble and sandstone.",
+    "architecture": "Not applicable in the monument sense — the draw is the lake and surrounding wetland habitat.",
+    "culturalImportance": "Represents Agra's natural and ecological side, often overlooked in favour of its Mughal heritage.",
+    "experiences": [
+      "Birdwatching, especially in winter migratory season",
+      "A calmer half-day trip away from the main monuments",
+      "Nature interpretation centre for context on the sanctuary"
+    ],
+    "bestTime": "Winter months (roughly November–February) for migratory birds; early morning.",
+    "etiquette": [
+      "Keep noise low around birdlife",
+      "Binoculars recommended, not always available on site"
+    ],
+    "media": { "images": ["/images/agra/k1.jpg", "/images/agra/k2.jpg", "/images/agra/k3.jpg", "/images/agra/k4.jpg"], "video": "" },
+    "reviews": []
+  },
+  {
+    "id": "chini-ka-rauza",
+    "destinationId": "agra",
+    "name": "Chini Ka Rauza",
+    "location": "Yamuna riverside, north of Agra Fort",
+    "category": "Heritage · Hidden Gem",
+    "intro": "A lesser-visited tomb known for its glazed-tile (chini) decoration, a technique rarer in Agra than the marble inlay of the Taj.",
+    "built": "17th century",
+    "builder": "Built as the tomb of Allama Afzal Khan Mullah, a Persian scholar and official at the Mughal court",
+    "period": "Mughal Empire (Shah Jahan era)",
+    "significance": "One of the few structures in Agra to use extensive glazed-tile work rather than marble inlay, reflecting Persian decorative traditions.",
+    "whyFamous": "It's the kind of site locals mention when asked 'what else should I see' — architecturally distinct, but rarely crowded.",
+    "architecture": "Persian-style glazed tilework (much of it now faded/damaged) over a domed tomb structure.",
+    "culturalImportance": "A quieter window into the Persian scholarly presence at the Mughal court, distinct from the imperial monuments nearby.",
+    "experiences": [
+      "A short, uncrowded visit to see surviving tile fragments",
+      "Contrast with the marble techniques seen at the Taj Mahal"
+    ],
+    "bestTime": "Any time of day; mornings are quietest.",
+    "etiquette": [
+      "Modest clothing suggested, as at any heritage site",
+      "Site is less maintained than major monuments — watch your footing"
+    ],
+    "media": { "images": ["/images/agra/c1.jpg", "/images/agra/c2.jpg", "/images/agra/c3.jpg", "/images/agra/c4.jpg"], "video": "" },
+    "reviews": []
+  }
+]

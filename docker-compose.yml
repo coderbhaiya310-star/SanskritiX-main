@@ -1,0 +1,25 @@
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_DB: sanskritix
+      POSTGRES_USER: sanskritix
+      POSTGRES_PASSWORD: sanskritix
+    ports:
+      - "5432:5432"
+    volumes:
+      - sanskritix_db:/var/lib/postgresql/data
+
+  api:
+    build: ./backend
+    environment:
+      DATABASE_URL: postgresql+psycopg2://sanskritix:sanskritix@db:5432/sanskritix
+      JWT_SECRET: change-this-before-production
+      CORS_ORIGINS: http://localhost:5173
+    depends_on:
+      - db
+    ports:
+      - "8000:8000"
+
+volumes:
+  sanskritix_db:

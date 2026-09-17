@@ -1,0 +1,743 @@
+[
+  {
+    "id": "agra",
+    "stateId": "uttar-pradesh",
+    "name": "Agra",
+    "intro": "Discover the history, food, streets, architecture, rituals and hidden stories of Agra beyond the Taj Mahal.",
+    "video": {
+      "title": "A Day in the Cultural Life of Agra",
+      "duration": "2:27",
+      "src": "/videos/agra/agra-video.mp4",
+      "description": "Discover the streets, food, traditions and heritage of Agra."
+    },
+    "history": "Agra rose to prominence as a Mughal capital in the 16th and 17th centuries under emperors Akbar, Jahangir and Shah Jahan, who left behind the red sandstone fort, formal gardens and marble mausoleums the city is known for today. Long before and after that period, Agra also sat on important trade and pilgrimage routes along the Yamuna river — a layer of history that's easy to miss if you only see the Taj Mahal.",
+    "hiddenGemsNote": "Most visitors see three sites and leave. A short walk or boat ride reveals a quieter, riverside Agra.",
+    "placeIds": [
+      "taj-mahal",
+      "agra-fort",
+      "mehtab-bagh",
+      "gyarah-sidi",
+      "keetham-lake",
+      "chini-ka-rauza"
+    ],
+    "hiddenGemIds": [
+      "mehtab-bagh",
+      "gyarah-sidi",
+      "keetham-lake",
+      "chini-ka-rauza"
+    ],
+    "streets": [
+      {
+        "id": "kinari-bazaar",
+        "name": "Kinari Bazaar",
+        "location": "Old Agra, near Agra Fort",
+        "knownFor": "A dense, old-city wholesale market known for traditional sweets, embroidery (zari) work and everyday trade.",
+        "experience": "Walk through narrow lanes that feel closer to how the old city actually functions, away from the tourist strip.",
+        "time": "Late morning to early evening",
+        "food": "Street sweets and snacks sold by long-running local vendors.",
+        "images": ["/images/agra/Kinari-Bazaar-1.jpg", "/images/agra/Kinari-Bazaar-2.jpg", "/images/agra/Kinari-Bazaar-3.jpg"]
+      },
+      {
+        "id": "sadar-bazaar",
+        "name": "Sadar Bazaar",
+        "location": "Cantonment area, Agra",
+        "knownFor": "A shopping street known for leather goods, marble handicrafts and souvenirs, plus a strong street-food scene.",
+        "experience": "A good stop for souvenir shopping and an easy introduction to Agra's street food.",
+        "time": "Evening, when stalls are busiest",
+        "food": "Bedai-jalebi stalls and roadside chaat.",
+        "images": ["/images/agra/sadar-bazar-1.jpg", "/images/agra/sadar-bazar-2.jpg", "/images/agra/sadar-bazar-3.jpg"]
+      },
+      {
+        "id": "fatehabad-road",
+        "name": "Fatehabad Road",
+        "location": "Near the Taj Mahal's east gate",
+        "knownFor": "A modern tourist corridor with hotels, restaurants and easy access to the Taj Mahal.",
+        "experience": "Less about culture, more about convenience — a practical base for visitors staying near the monument.",
+        "time": "Any time",
+        "food": "A mix of multi-cuisine restaurants aimed at visitors.",
+        "images": ["/images/agra/fatehabad-1.jpg"]
+      }
+    ],
+    "food": [
+      {
+        "id": "petha",
+        "name": "Petha",
+        "veg": true,
+        "area": "Old Agra / citywide",
+        "desc": "A translucent, syrup-soaked sweet made from ash gourd. It's the sweet most strongly associated with Agra and commonly bought as a gift or offering.",
+        "why": "Its texture and the way it's made — boiled, soaked, flavoured — has made it an Agra signature for generations of visitors and locals alike.",
+        "img": "/images/petha.jpg"
+      },
+      {
+        "id": "bedai-jalebi",
+        "name": "Bedai & Jalebi",
+        "veg": true,
+        "area": "Sadar Bazaar / old city stalls",
+        "desc": "A popular Agra breakfast: deep-fried, lightly spiced stuffed bread (bedai) served with a tangy potato curry, often paired with hot, syrupy jalebi.",
+        "why": "It's the breakfast locals actually eat — a good way to taste Agra's street-food culture rather than restaurant food.",
+        "img": "/images/jalebi.jpg"
+      },
+      {
+        "id": "dalmoth",
+        "name": "Dalmoth",
+        "veg": true,
+        "area": "Citywide, sold in shops",
+        "desc": "A crunchy, spiced namkeen (savoury snack) blend of lentils, nuts and spices, produced commercially in Agra.",
+        "why": "Agra is a well-known production hub for this snack, and it travels well as a food souvenir.",
+        "img": "/images/dalmoth.jpg"
+      },
+      {
+        "id": "mughlai-kebabs-korma",
+        "name": "Mughlai Kebabs & Korma",
+        "veg": false,
+        "area": "Old city eateries",
+        "desc": "Rich, slow-cooked gravies and kebabs reflecting Agra's Mughal-era culinary heritage.",
+        "why": "A direct culinary echo of the Mughal court cuisine associated with the city's imperial history.",
+        "img": "/images/Seekh kabab.jpg"
+      }
+    ],
+    "festivals": [
+      {
+        "id": "taj-mahotsav",
+        "name": "Taj Mahotsav",
+        "season": "Typically mid-February, 10 days",
+        "desc": "An annual cultural festival held near Agra showcasing crafts, music, dance and food from across India.",
+        "significance": "Created to give visitors a wider taste of Indian culture and craft traditions alongside the city's monuments.",
+        "whatToSee": "Craft stalls, live music and dance performances, regional food stands.",
+        "clothing": "No specific dress code — festival-going, comfortable clothing.",
+        "etiquette": "Respect performers' space and ask before photographing craftspeople at close range.",
+        "images": ["/images/agra/t1.jpg", "/images/agra/t2.jpg", "/images/agra/t3.jpg"]
+      },
+      {
+        "id": "ram-barat",
+        "name": "Ram Barat",
+        "season": "During the Navratri period (typically September/October)",
+        "desc": "A large local procession reenacting the wedding procession of Lord Ram, a well-established Agra tradition with decorated floats and tableaux.",
+        "significance": "One of Agra's biggest community events, drawing large local crowds rather than tourists.",
+        "whatToSee": "Elaborately decorated floats, music, and a procession through the old city.",
+        "clothing": "Participants often wear festive/traditional clothing; visitors can dress modestly and comfortably.",
+        "etiquette": "Expect large crowds and street closures; stay on the sidelines unless invited to join.",
+        "images": ["/images/r1.jpg", "/images/r2.jpg"]
+      },
+      {
+        "id": "bateshwar-fair",
+        "name": "Bateshwar Fair",
+        "season": "Typically October/November",
+        "desc": "A religious and cattle fair held on the banks of the Yamuna near Bateshwar, roughly 70km from Agra city.",
+        "significance": "A local tradition, less touristy than city events, centred on the riverside temples at Bateshwar.",
+        "whatToSee": "Riverside temple activity, a cattle fair, and rural Uttar Pradesh life.",
+        "clothing": "Modest clothing recommended given the religious setting.",
+        "etiquette": "Ask before photographing religious rituals or individuals up close.",
+        "images": ["/images/b1.jpg", "/images/b2.jpg"]
+      }
+    ],
+    "rituals": [
+      {
+        "id": "evening-aarti",
+        "name": "Evening aarti at the river ghats",
+        "community": "Practiced broadly across North Indian river towns; observed at select ghats in Agra",
+        "desc": "An evening prayer ritual performed with oil lamps, generally held at river-facing ghats.",
+        "how": "Devotees or priests light small lamps and offer them to the river accompanied by chanting or devotional song.",
+        "whatVisitors": "Lamps, chanting, and a gathered local crowd at dusk.",
+        "wear": "Modest clothing is appropriate near any active ritual space.",
+        "etiquette": [
+          "Watch from a respectful distance unless invited closer",
+          "Ask before photographing participants",
+          "Keep phones silent during the ritual"
+        ],
+        "note": "This is a general North Indian river-town tradition; specific practices vary by ghat and community — treat exact details as local custom rather than fixed rule.",
+        "images": ["/images/y1.jpg", "/images/y2.jpg"]
+      },
+      {
+        "id": "kartik-purnima",
+        "name": "Kartik Purnima ritual bathing",
+        "community": "Regional Hindu tradition, observed in parts of North India",
+        "desc": "Ritual bathing in a river is a widely observed regional tradition on the full moon of Kartik (typically October/November).",
+        "how": "Devotees bathe in the river at dawn as an act of purification, sometimes followed by prayers or small offerings.",
+        "whatVisitors": "Early-morning gatherings at river ghats.",
+        "wear": "Modest clothing recommended if visiting a ghat during this period.",
+        "etiquette": [
+          "This is a devotional occasion — observe quietly if not participating",
+          "Avoid disrupting a bathing area"
+        ],
+        "note": "Presented as regional local tradition; exact observance in Agra specifically is a matter of local custom rather than confirmed record.",
+        "images": ["/images/k1.jpg", "/images/k2.jpg"]
+      }
+    ],
+    "activities": [
+      {
+        "id": "sunrise-mehtab-bagh",
+        "name": "Sunrise at Mehtab Bagh",
+        "desc": "Watch the Taj Mahal catch first light from across the river, away from the main entrance crowds."
+      },
+      {
+        "id": "kachhpura-walk",
+        "name": "Heritage walk through Kachhpura village",
+        "desc": "A short walk through a village directly opposite the Taj Mahal, offering a different, everyday vantage point."
+      },
+      {
+        "id": "marble-inlay-workshop",
+        "name": "Marble inlay (pietra dura) workshop visit",
+        "desc": "Agra's artisans continue the marble-inlay tradition seen at the Taj Mahal — some workshops welcome visitors to watch the process."
+      },
+      {
+        "id": "old-city-food-walk",
+        "name": "Old-city food walk",
+        "desc": "A guided walk through Sadar and Kinari Bazaar tasting bedai-jalebi, petha and street chaat."
+      }
+    ],
+    "localStories": [
+      {
+        "id": "black-taj-legend",
+        "title": "The Black Taj legend",
+        "body": "Local legend holds that Shah Jahan planned a mirror-image mausoleum in black marble for himself on the opposite riverbank, at what is now Mehtab Bagh, facing the white Taj Mahal. This is a well-known piece of local folklore rather than an established historical fact — most historians treat it as legend, not record.",
+        "folklore": true
+      },
+      {
+        "id": "gyarah-sidi-name",
+        "title": "Why 'Gyarah Sidi' got its name",
+        "body": "Ask three people in the old city why this riverside spot is called 'eleven steps' and you may get three different answers. It's a good example of how oral, local naming traditions persist even without a single agreed-upon origin story.",
+        "folklore": true
+      }
+    ]
+  },
+  {
+    "id": "koraput",
+    "stateId": "odisha",
+    "name": "Koraput",
+    "intro": "Discover Koraput through its tribal heritage, mountain landscapes, forests, weekly haats, traditional food, temples and the cultural world of Nandapur and Deomali.",
+    "video": {
+      "title": "A Day in the Cultural Life of Koraput",
+      "duration": "4:07",
+      "src": "/videos/koraput.mp4",
+      "description": "Discover the tribal traditions, landscapes, food and heritage of Koraput."
+    },
+    "history": "Koraput is a culturally rich region of southern Odisha known for its tribal communities, forest landscapes and historic settlements. Nandapur was an important centre in the region and is associated with the medieval history of the Jeypore area. Deomali, the highest mountain peak in Odisha, adds another major layer to the region's landscape and identity.",
+    "hiddenGemsNote": "Beyond the better-known landscapes, Koraput's weekly haats, tribal villages, old temples and mountain routes reveal the everyday cultural life of the region.",
+    "placeIds": [
+      "deomali",
+      "nandapur",
+      "gupteswar-cave",
+      "kolab-dam",
+      "machkund",
+      "tribal-museum-koraput"
+    ],
+    "hiddenGemIds": [
+      "nandapur",
+      "gupteswar-cave",
+      "kolab-dam",
+      "machkund"
+    ],
+    "streets": [
+      {
+        "id": "koraput-market",
+        "name": "Koraput Local Market",
+        "location": "Koraput town",
+        "knownFor": "Local produce, tribal crafts, spices and everyday shopping.",
+        "experience": "Walk through the market to see the everyday rhythm of the town and locally produced goods.",
+        "time": "Morning to early evening",
+        "food": "Local snacks, seasonal fruits and regional produce.",
+        "img": "/images/koraput/streets/koraput-market.jpg"
+      },
+      {
+        "id": "nandapur-old-town",
+        "name": "Nandapur Heritage Area",
+        "location": "Nandapur, Koraput district",
+        "knownFor": "Historic temples and remnants of the old settlement.",
+        "experience": "Explore the quieter heritage landscape around Nandapur and its temples.",
+        "time": "Morning or late afternoon",
+        "food": "Simple local snacks and seasonal food from nearby vendors.",
+        "img": "/images/koraput/streets/nandapur.jpg"
+      }
+    ],
+    "food": [
+      {
+        "id": "mandia-jau",
+        "name": "Mandia Jau",
+        "veg": true,
+        "area": "Koraput and surrounding tribal areas",
+        "desc": "A traditional ragi-based drink or porridge associated with food traditions in Odisha's tribal regions.",
+        "why": "Millets have long been important to food systems in southern Odisha.",
+        "img": "/images/4.jpg"
+      },
+      {
+        "id": "millet-foods",
+        "name": "Traditional Millet Foods",
+        "veg": true,
+        "area": "Koraput region",
+        "desc": "Foods prepared from ragi, little millet and other locally cultivated grains.",
+        "why": "Millets are closely connected with the agricultural traditions of the region.",
+        "img": "/images/5.jpg"
+      },
+      {
+        "id": "mahua-based-food",
+        "name": "Mahua-based Traditional Foods",
+        "veg": true,
+        "area": "Tribal areas around Koraput",
+        "desc": "Traditional preparations using mahua flowers and other locally gathered ingredients.",
+        "why": "Forest produce has an important place in the food culture of several tribal communities.",
+        "img": "/images/6.jpg"
+      }
+    ],
+    "festivals": [
+      {
+        "id": "chaitra-parab",
+        "name": "Chaitra Parab",
+        "season": "Typically March-April",
+        "desc": "A major tribal seasonal celebration observed in parts of southern Odisha.",
+        "significance": "Associated with community gatherings, seasonal cycles, traditional performances and local customs.",
+        "whatToSee": "Community celebrations, traditional music, dance and village gatherings.",
+        "clothing": "Comfortable and modest clothing.",
+        "etiquette": "Ask before photographing ceremonies or performers.",
+        "img": "/images/koraput/festivals/chaitra-parab.jpg"
+      },
+      {
+        "id": "tribal-haat-festival",
+        "name": "Tribal Haat and Seasonal Gatherings",
+        "season": "Varies by community and locality",
+        "desc": "Weekly and seasonal markets can become important social and cultural gathering places.",
+        "significance": "The haat is not only a marketplace but also a meeting point for surrounding communities.",
+        "whatToSee": "Local produce, forest products, crafts and traditional clothing.",
+        "clothing": "Comfortable everyday clothing.",
+        "etiquette": "Ask vendors before taking close-up photographs.",
+        "img": "/images/koraput/festivals/tribal-haat.jpg"
+      }
+    ],
+    "rituals": [
+      {
+        "id": "tribal-seasonal-ritual",
+        "name": "Seasonal Community Rituals",
+        "community": "Tribal communities of the Koraput region",
+        "desc": "Seasonal rituals connected with agriculture, community life and local traditions vary between communities.",
+        "how": "Practices can include community gatherings, offerings, music, dance and prayers according to local custom.",
+        "whatVisitors": "Community gatherings, traditional music and ceremonial activity.",
+        "wear": "Modest and comfortable clothing.",
+        "etiquette": [
+          "Observe from a respectful distance",
+          "Ask before photographing participants",
+          "Do not enter restricted ritual spaces"
+        ],
+        "note": "Specific practices differ between communities and villages.",
+        "img": "/images/koraput/rituals/seasonal-community-ritual.jpg"
+      },
+      {
+        "id": "temple-offering-nandapur",
+        "name": "Temple Offerings at Nandapur",
+        "community": "Local Hindu communities",
+        "desc": "Temple worship and offerings form part of the religious landscape of Nandapur.",
+        "how": "Devotees visit temples, offer prayers and make traditional offerings.",
+        "whatVisitors": "Temple activity, bells, offerings and devotional gatherings.",
+        "wear": "Modest clothing appropriate for a temple.",
+        "etiquette": [
+          "Remove footwear where required",
+          "Ask before photographing worshippers",
+          "Follow temple-specific rules"
+        ],
+        "note": "Exact practices vary by temple and occasion.",
+        "img": "/images/koraput/rituals/nandapur-temple-offering.jpg"
+      }
+    ],
+    "activities": [
+      {
+        "id": "deomali-trek",
+        "name": "Deomali Mountain Trek",
+        "desc": "Explore the mountain landscape around Deomali through trekking routes and viewpoints.",
+        "img": "/images/koraput/activities/deomali-trek.jpg"
+      },
+      {
+        "id": "nandapur-heritage-walk",
+        "name": "Nandapur Heritage Walk",
+        "desc": "Explore historic temples and the old settlement landscape of Nandapur.",
+        "img": "/images/koraput/activities/nandapur-heritage-walk.jpg"
+      },
+      {
+        "id": "tribal-haat-visit",
+        "name": "Visit a Tribal Haat",
+        "desc": "Experience a traditional marketplace where local communities trade agricultural and forest products.",
+        "img": "/images/koraput/activities/tribal-haat-visit.jpg"
+      },
+      {
+        "id": "kolab-landscape",
+        "name": "Kolab Landscape Experience",
+        "desc": "Enjoy the forests, reservoir landscape and surrounding hills around the Kolab region.",
+        "img": "/images/koraput/activities/kolab-landscape.jpg"
+      }
+    ],
+    "localStories": [
+      {
+        "id": "deomali-mountain-story",
+        "title": "The Mountain of Deomali",
+        "body": "Deomali is closely associated with the identity of southern Odisha and is known for its dramatic mountain landscape. Stories and local interpretations of the mountain vary across communities.",
+        "folklore": true
+      },
+      {
+        "id": "nandapur-history",
+        "title": "The Old World of Nandapur",
+        "body": "Nandapur's temples and old settlement landscape preserve traces of the historical importance of the region.",
+        "folklore": false
+      }
+    ]
+  },
+  {
+    "id": "kondagaon",
+    "stateId": "chhattisgarh",
+    "name": "Kondagaon",
+    "intro": "Discover Kondagaon through Bastar's bell-metal craft, terracotta, tribal traditions, forests, haats, local food and the stories of its artisans.",
+    "video": {
+      "title": "A Day in the Cultural Life of Kondagaon",
+      "duration": "4:39",
+      "src": "/videos/kondagaon.mp4",
+      "description": "Discover Bastar's crafts, tribal traditions, markets and landscapes around Kondagaon."
+    },
+    "history": "Kondagaon is part of the Bastar region of Chhattisgarh, an area known for its distinctive tribal cultures and traditional crafts. The region has a particularly strong reputation for bell-metal work, wrought iron, terracotta and woodcraft. Artisan traditions remain an important part of the cultural identity of the area.",
+    "hiddenGemsNote": "Kondagaon's real character is often found inside artisan workshops, village haats and forest-edge communities rather than only at formal tourist attractions.",
+    "placeIds": [
+      "kondagaon-craft-village",
+      "bastar-palace",
+      "keshkal-valley",
+      "tirathgarh-waterfall",
+      "chitrakote-waterfall",
+      "kondagaon-haat"
+    ],
+    "hiddenGemIds": [
+      "kondagaon-craft-village",
+      "keshkal-valley",
+      "kondagaon-haat"
+    ],
+    "streets": [
+      {
+        "id": "kondagaon-main-market",
+        "name": "Kondagaon Main Market",
+        "location": "Kondagaon town",
+        "knownFor": "Local produce, handicrafts, everyday goods and regional snacks.",
+        "experience": "A simple way to observe everyday Bastar town life.",
+        "time": "Morning to evening",
+        "food": "Local snacks and seasonal produce.",
+        "img": "/images/kondagaon/streets/main-market.jpg"
+      },
+      {
+        "id": "craft-market-road",
+        "name": "Craft Market Area",
+        "location": "Kondagaon",
+        "knownFor": "Bell-metal, wrought iron, terracotta and other Bastar handicrafts.",
+        "experience": "Browse locally made crafts and, where permitted, visit nearby artisan workshops.",
+        "time": "Late morning to evening",
+        "food": "Local snacks and tea stalls.",
+        "img": "/images/kondagaon/streets/craft-market.jpg"
+      }
+    ],
+    "food": [
+      {
+        "id": "bore-basi",
+        "name": "Bore Basi",
+        "veg": true,
+        "area": "Chhattisgarh and Bastar",
+        "desc": "Cooked rice soaked in water and traditionally eaten as a cooling meal, especially in warmer weather.",
+        "why": "It is a simple traditional food associated strongly with Chhattisgarh's rural food culture.",
+        "img": "/images/kondagaon/food/bore-basi.jpg"
+      },
+      {
+        "id": "mahua-food",
+        "name": "Mahua-based Traditional Food Of kondagaon",
+        "veg": true,
+        "area": "Bastar region",
+        "desc": "Traditional preparations made using mahua flowers and other locally sourced ingredients.",
+        "why": "Mahua is an important forest product in the cultural and economic life of Bastar communities.",
+        "img": "/images/7.jpg"
+      },
+      {
+        "id": "bastar-chutneys",
+        "name": "Bastar-style Chutneys",
+        "veg": true,
+        "area": "Kondagaon and Bastar",
+        "desc": "Local chutneys made from seasonal ingredients, herbs, chillies and forest produce.",
+        "why": "The use of locally available ingredients reflects the food ecology of the Bastar region.",
+        "img": "/images/kondagaon/food/bastar-chutney.jpg"
+      }
+    ],
+    "festivals": [
+      {
+        "id": "bastar-dussehra",
+        "name": "Bastar Dussehra",
+        "season": "Typically August-October",
+        "desc": "A major cultural and religious festival of Bastar with a distinctive local tradition that differs from the Dussehra celebrations elsewhere in India.",
+        "significance": "It is deeply connected with the traditions surrounding Maa Danteshwari and the communities of Bastar.",
+        "whatToSee": "Processions, rituals, traditional music, community gatherings and decorated chariots.",
+        "clothing": "Modest and comfortable clothing.",
+        "etiquette": "Maintain distance from ritual processions and ask before photographing ceremonies.",
+        "images": ["/images/agra/b1.jpg", "/images/agra/b2.jpg", "/images/agra/b3.jpg"]
+      },
+      {
+        "id": "hareli",
+        "name": "Hareli",
+        "season": "Typically July-August",
+        "desc": "A harvest and agricultural festival celebrated in Chhattisgarh.",
+        "significance": "The festival is associated with agriculture, livestock and the beginning of the agricultural season.",
+        "whatToSee": "Decorated agricultural tools, community gatherings and traditional activities.",
+        "clothing": "Comfortable traditional or everyday clothing.",
+        "etiquette": "Respect household and community rituals.",
+        "images": ["/images/agra/h1.jpg", "/images/agra/h2.jpg", "/images/agra/h3.jpg"]
+      }
+    ],
+    "rituals": [
+      {
+        "id": "bastar-deity-ritual",
+        "name": "Bastar Deity Worship",
+        "community": "Tribal and local communities of Bastar",
+        "desc": "Local deity worship forms an important part of Bastar's cultural landscape.",
+        "how": "Ritual forms vary by community and shrine and may include offerings, music, processions and collective prayer.",
+        "whatVisitors": "Devotional gatherings, traditional instruments and ceremonial activity.",
+        "wear": "Modest clothing.",
+        "etiquette": [
+          "Ask permission before entering ritual areas",
+          "Do not photograph restricted ceremonies",
+          "Follow instructions from local community members"
+        ],
+        "note": "Bastar has diverse communities and practices; no single ritual represents the entire region.",
+        "img": "/images/kondagaon/rituals/bastar-deity-worship.jpg"
+      },
+      {
+        "id": "community-offering",
+        "name": "Community Offerings",
+        "community": "Local Bastar communities",
+        "desc": "Offerings to local deities and sacred spaces form part of community religious traditions.",
+        "how": "Offerings and ceremonies vary depending on the deity, village and festival.",
+        "whatVisitors": "Small shrines, offerings and community gatherings.",
+        "wear": "Modest clothing.",
+        "etiquette": [
+          "Observe quietly",
+          "Ask before taking photographs",
+          "Do not touch offerings"
+        ],
+        "note": "Specific practices should be understood through local guidance.",
+        "img": "/images/kondagaon/rituals/community-offering.jpg"
+      }
+    ],
+    "activities": [
+      {
+        "id": "bell-metal-workshop",
+        "name": "Bell-Metal Craft Workshop",
+        "desc": "Visit an artisan workshop and observe the traditional Bastar bell-metal craft process.",
+        "img": "/images/kondagaon/activities/bell-metal-workshop.jpg"
+      },
+      {
+        "id": "wrought-iron-workshop",
+        "name": "Bastar Wrought-Iron Workshop",
+        "desc": "Watch artisans shape traditional wrought-iron objects using hand tools and traditional techniques.",
+        "img": "/images/kondagaon/activities/wrought-iron-workshop.jpg"
+      },
+      {
+        "id": "keshkal-valley-drive",
+        "name": "Keshkal Valley Drive",
+        "desc": "Travel through the forested hills and winding roads around Keshkal Valley.",
+        "img": "/images/kondagaon/activities/keshkal-valley-drive.jpg"
+      },
+      {
+        "id": "bastar-haat-walk",
+        "name": "Bastar Haat Walk",
+        "desc": "Explore a local weekly market and observe traditional trade, crafts and seasonal produce.",
+        "img": "/images/kondagaon/activities/bastar-haat-walk.jpg"
+      }
+    ],
+    "localStories": [
+      {
+        "id": "bastar-craft-story",
+        "title": "The Story of Bastar Craft",
+        "body": "Bastar's craft traditions are closely connected with everyday life, ritual objects and local aesthetics. Bell-metal, wrought iron, terracotta and woodcraft have become recognizable expressions of the region.",
+        "folklore": false
+      },
+      {
+        "id": "forest-memory",
+        "title": "Stories of the Forest",
+        "body": "For many communities in Bastar, forests are not simply landscapes but sources of food, materials, medicines, livelihoods and cultural meaning.",
+        "folklore": true
+      }
+    ]
+  },
+  {
+    "id": "kalimpong",
+    "stateId": "west-bengal",
+    "name": "Kalimpong",
+    "intro": "Discover Kalimpong through Himalayan monasteries, colonial-era streets, mountain views, local food, flower nurseries, markets and the cultures of the eastern Himalayas.",
+    "video": {
+      "title": "A Day in the Cultural Life of Kalimpong",
+      "duration": "2:30",
+      "src": "/videos/Kalimpong.mp4",
+      "description": "Discover Kalimpong's monasteries, markets, food, gardens and Himalayan culture."
+    },
+    "history": "Kalimpong developed as an important settlement and trading centre in the eastern Himalayas. Its history reflects interactions among Himalayan communities, Tibetan Buddhist traditions, Nepali-speaking communities and the wider colonial-era trade network. The town is also known for monasteries, schools, markets and its distinctive mountain landscape.",
+    "hiddenGemsNote": "Kalimpong becomes more interesting away from the busiest viewpoints: monastery courtyards, flower nurseries, old neighbourhoods, village roads and quiet Himalayan viewpoints reveal another side of the town.",
+    "placeIds": [
+      "durpin-monastery",
+      "zang-dhok-palri-phodang",
+      "deolo-hill",
+      "morgan-house",
+      "cactus-nursery",
+      "macfarlane-church"
+    ],
+    "hiddenGemIds": [
+      "durpin-monastery",
+      "cactus-nursery",
+      "macfarlane-church",
+      "morgan-house"
+    ],
+    "streets": [
+      {
+        "id": "rishi-road",
+        "name": "Rishi Road",
+        "location": "Kalimpong town",
+        "knownFor": "Local shops, restaurants and everyday town activity.",
+        "experience": "Walk through one of the town's active commercial areas.",
+        "time": "Morning to evening",
+        "food": "Local snacks, momos and tea.",
+        "img": "/images/kalimpong/streets/rishi-road.jpg"
+      },
+      {
+        "id": "market-square",
+        "name": "Kalimpong Market Area",
+        "location": "Central Kalimpong",
+        "knownFor": "Vegetables, local products, handicrafts, clothing and everyday trade.",
+        "experience": "Explore the market and observe the mix of Himalayan communities and local commerce.",
+        "time": "Morning to late afternoon",
+        "food": "Momos, thukpa, tea and local snacks.",
+        "img": "/images/kalimpong/streets/kalimpong-market.jpg"
+      }
+    ],
+    "food": [
+      {
+        "id": "momos",
+        "name": "Momos",
+        "veg": false,
+        "area": "Kalimpong town",
+        "desc": "Steamed dumplings filled with vegetables or meat and served with a spicy chutney.",
+        "why": "Momos are deeply established in the food culture of the eastern Himalayan region.",
+        "img": "/images/kalimpong/food/momos.jpg"
+      },
+      {
+        "id": "thukpa",
+        "name": "Thukpa",
+        "veg": false,
+        "area": "Kalimpong town",
+        "desc": "A warming noodle soup commonly prepared with vegetables, herbs and sometimes meat.",
+        "why": "Its popularity reflects the Himalayan influence on Kalimpong's food culture.",
+        "img": "/images/kalimpong/food/thukpa.jpg"
+      },
+      {
+        "id": "sel-roti",
+        "name": "Sel Roti",
+        "veg": true,
+        "area": "Nepali-speaking communities of the region",
+        "desc": "A ring-shaped traditional rice bread that is deep-fried and commonly prepared during festivals and family occasions.",
+        "why": "Sel roti is an important part of Nepali food traditions in the eastern Himalayan region.",
+        "img": "/images/8.jpg"
+      },
+      {
+        "id": "local-tea",
+        "name": "Himalayan Tea",
+        "veg": true,
+        "area": "Kalimpong",
+        "desc": "Tea served in local cafés and homes, often enjoyed with snacks.",
+        "why": "Tea culture is closely connected with the broader Himalayan hill economy and lifestyle.",
+        "img": "/images/kalimpong/food/tea.jpg"
+      }
+    ],
+    "festivals": [
+      {
+        "id": "losar",
+        "name": "Losar",
+        "season": "Usually February-March, date varies",
+        "desc": "Tibetan New Year celebrated by Tibetan Buddhist communities.",
+        "significance": "A major cultural and religious occasion marked by prayers, gatherings and traditional customs.",
+        "whatToSee": "Monastery activity, prayer ceremonies and community gatherings.",
+        "clothing": "Modest and comfortable clothing.",
+        "etiquette": "Maintain silence in prayer areas and ask before photographing ceremonies.",
+        "img": "/images/kalimpong/festivals/losar.jpg"
+      },
+      {
+        "id": "dashain",
+        "name": "Dashain",
+        "season": "Typically September-October",
+        "desc": "A major festival celebrated among Nepali-speaking communities.",
+        "significance": "One of the most important family and religious festivals in Nepali culture.",
+        "whatToSee": "Family gatherings, traditional foods, religious observances and festive clothing.",
+        "clothing": "Traditional or modest festive clothing.",
+        "etiquette": "Respect private family ceremonies and ask before taking photographs.",
+        "img": "/images/kalimpong/festivals/dashain.jpg"
+      }
+    ],
+    "rituals": [
+      {
+        "id": "buddhist-prayer",
+        "name": "Buddhist Prayer at Monasteries",
+        "community": "Tibetan Buddhist communities",
+        "desc": "Prayer and devotional practices are observed at monasteries across the Kalimpong region.",
+        "how": "Practices can include prayers, chanting, butter lamps, incense and circumambulation according to monastery tradition.",
+        "whatVisitors": "Prayer halls, monks, prayer wheels and devotional activity.",
+        "wear": "Modest clothing.",
+        "etiquette": [
+          "Speak quietly inside prayer halls",
+          "Ask before photographing monks",
+          "Do not disturb ongoing prayers"
+        ],
+        "note": "Practices and photography rules vary by monastery.",
+        "img": "/images/kalimpong/rituals/buddhist-prayer.jpg"
+      },
+      {
+        "id": "prayer-wheel-circumambulation",
+        "name": "Prayer Wheel Circumambulation",
+        "community": "Tibetan Buddhist communities",
+        "desc": "Devotees may walk around sacred spaces while turning prayer wheels in a clockwise direction.",
+        "how": "Visitors can observe devotees moving around the monastery or sacred site while engaging with prayer wheels.",
+        "whatVisitors": "Prayer wheels, devotional walking and monastery surroundings.",
+        "wear": "Modest clothing.",
+        "etiquette": [
+          "Move in the customary direction",
+          "Avoid blocking devotees",
+          "Ask before photographing people"
+        ],
+        "note": "Follow the specific instructions displayed at each monastery.",
+        "img": "/images/kalimpong/rituals/prayer-wheel.jpg"
+      }
+    ],
+    "activities": [
+      {
+        "id": "deolo-hill-sunrise",
+        "name": "Sunrise at Deolo Hill",
+        "desc": "Watch the Himalayan landscape from one of Kalimpong's best-known elevated viewpoints.",
+        "img": "/images/kalimpong/activities/deolo-hill-sunrise.jpg"
+      },
+      {
+        "id": "monastery-walk",
+        "name": "Monastery Heritage Walk",
+        "desc": "Visit historic monasteries and explore the Buddhist cultural landscape around Kalimpong.",
+        "img": "/images/kalimpong/activities/monastery-heritage-walk.jpg"
+      },
+      {
+        "id": "flower-nursery-visit",
+        "name": "Flower Nursery Visit",
+        "desc": "Explore Kalimpong's famous nurseries and learn about orchids, cacti and other Himalayan plants.",
+        "img": "/images/kalimpong/activities/flower-nursery.jpg"
+      },
+      {
+        "id": "himalayan-town-walk",
+        "name": "Old Kalimpong Town Walk",
+        "desc": "Walk through local markets, old buildings, churches and neighbourhood streets.",
+        "img": "/images/kalimpong/activities/old-town-walk.jpg"
+      }
+    ],
+    "localStories": [
+      {
+        "id": "silk-route-memory",
+        "title": "Kalimpong and the Old Trade Routes",
+        "body": "Kalimpong developed as an important trading point connecting Himalayan regions with the plains. Memories of this trading history remain part of the town's identity.",
+        "folklore": false
+      },
+      {
+        "id": "deolo-name",
+        "title": "Stories Around Deolo",
+        "body": "The hills around Kalimpong carry many local stories and interpretations of place names. Deolo remains one of the town's most recognizable landscape landmarks.",
+        "folklore": true
+      }
+    ]
+  }
+]

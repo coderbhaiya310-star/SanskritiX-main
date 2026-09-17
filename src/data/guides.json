@@ -1,0 +1,79 @@
+[
+  {
+    "id": "rahul-sharma",
+    "name": "Rahul Sharma",
+    "photo": "/images/1.jpg",
+    "city": "Agra",
+    "destinationId": "agra",
+    "languages": ["Hindi", "English", "French"],
+    "specialties": ["Mughal History", "Architecture", "Local Food"],
+    "experience": "8 years",
+    "bio": "Grew up in Agra's old city and has been guiding visitors through its history and food for eight years, with a focus on Mughal-era architecture and stories that don't make it into guidebooks.",
+    "baseRating": 4.8,
+    "tours": 132,
+    "reviews": [
+      {
+        "id": "grev-rahul-1",
+        "guideId": "rahul-sharma",
+        "visitorName": "Claire M.",
+        "visitorContext": "French visitor",
+        "text": "Rahul explained the history in a very easy way and helped us understand the local culture, in French, which made a huge difference.",
+        "ratings": { "communication": 5, "knowledge": 5, "friendliness": 5, "cultural": 5, "punctuality": 4, "overall": 5 }
+      },
+      {
+        "id": "grev-rahul-2",
+        "guideId": "rahul-sharma",
+        "visitorName": "Amit V.",
+        "visitorContext": "Domestic visitor",
+        "text": "Knew details about Agra Fort I hadn't read anywhere. Well worth it if you want more than the standard tour.",
+        "ratings": { "communication": 5, "knowledge": 5, "friendliness": 4, "cultural": 5, "punctuality": 5, "overall": 5 }
+      }
+    ]
+  },
+  {
+    "id": "priya-verma",
+    "name": "Priya Verma",
+    "photo": "/images/2.jpg",
+    "city": "Agra",
+    "destinationId": "agra",
+    "languages": ["Hindi", "English", "Spanish"],
+    "specialties": ["Heritage Walks", "Photography Tours"],
+    "experience": "5 years",
+    "bio": "A former architecture student who now leads heritage walking tours and photography-focused visits around Agra's lesser-known corners.",
+    "baseRating": 4.6,
+    "tours": 74,
+    "reviews": [
+      {
+        "id": "grev-priya-1",
+        "guideId": "priya-verma",
+        "visitorName": "Diego S.",
+        "visitorContext": "Spanish visitor",
+        "text": "Great eye for photo spots away from the crowds, and patient with our Spanish.",
+        "ratings": { "communication": 5, "knowledge": 4, "friendliness": 5, "cultural": 4, "punctuality": 5, "overall": 5 }
+      }
+    ]
+  },
+  {
+    "id": "imran-sheikh",
+    "name": "Imran Sheikh",
+    "photo": "/images/3.jpg",
+    "city": "Agra",
+    "destinationId": "agra",
+    "languages": ["Hindi", "English", "Arabic"],
+    "specialties": ["Islamic Architecture", "Sufi Heritage"],
+    "experience": "11 years",
+    "bio": "Specialises in the Islamic and Sufi architectural heritage of Agra and nearby Fatehpur Sikri, guiding in Hindi, English and Arabic.",
+    "baseRating": 4.9,
+    "tours": 201,
+    "reviews": [
+      {
+        "id": "grev-imran-1",
+        "guideId": "imran-sheikh",
+        "visitorName": "Yusuf A.",
+        "visitorContext": "Arabic visitor",
+        "text": "Deep knowledge of Islamic architecture, explained everything in Arabic without losing nuance.",
+        "ratings": { "communication": 5, "knowledge": 5, "friendliness": 5, "cultural": 5, "punctuality": 5, "overall": 5 }
+      }
+    ]
+  }
+]
